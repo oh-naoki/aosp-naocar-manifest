@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="oh-naoki"
+        fetch="https://github.com/oh-naoki"
+	    revision="main" />
+    
+    <project path="device/oh-naoki/naocar" name="aosp-naocar-device" remote="oh-naoki" revision="main" />
+
+</manifest>
